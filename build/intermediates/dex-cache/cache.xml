@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/steventran/Desktop/LockBlocksNotification/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/steventran/Desktop/LockBlocksNotification/app/build/intermediates/pre-dexed/debug/classes-7194e01ff0d80c8f2b179977eb51faf2fac7750c.jar" />
+    </item>
+    <item
+        jar="/Users/steventran/Desktop/LockBlocksNotification/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/steventran/Desktop/LockBlocksNotification/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-1b50f5b59756269efdab56b5ed195060395b1ccb.jar" />
+    </item>
+    <item
+        jar="/Users/steventran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/steventran/Desktop/LockBlocksNotification/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-ee1ab791a900e99e6934922714bf9a1a87e4d77c.jar" />
+    </item>
+    <item
+        jar="/Users/steventran/Desktop/LockBlocksNotification/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/steventran/Desktop/LockBlocksNotification/app/build/intermediates/pre-dexed/debug/classes-f2267fa22c91fd73f8e43df2cd4dbbd1107942b6.jar" />
+    </item>
+
+</items>
